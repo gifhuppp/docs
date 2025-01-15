@@ -6,12 +6,13 @@ topics:
   - Policy
   - Legal
 children:
-  - /github-corporate-terms-of-service
-  - /github-community-forum-code-of-conduct
-  - /github-community-guidelines
   - /github-terms-of-service
-  - /github-sponsors-additional-terms
+  - /github-corporate-terms-of-service
   - /github-terms-for-additional-products-and-features
+  - /github-community-guidelines
+  - /github-community-code-of-conduct
+  - /github-pre-release-license-terms
+  - /github-sponsors-additional-terms
   - /github-registered-developer-agreement
   - /github-marketplace-terms-of-service
   - /github-marketplace-developer-agreement
@@ -19,5 +20,6 @@ children:
   - /github-open-source-applications-terms-and-conditions
   - /github-event-terms
   - /github-event-code-of-conduct
+  - /github-educational-use-agreement
+  - /github-copilot-extension-developer-policy
 ---
-
